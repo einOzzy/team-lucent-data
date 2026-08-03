@@ -119,6 +119,19 @@
           "url": "https://www.tiktok.com/@othyds?lang=en&is_from_webapp=1&sender_device=mobile&sender_web_id=7601673116964357640"
         }
       ]
+    },
+    {
+      "name": "Lucent Swayz",
+      "role": "VFX",
+      "category": "creatives",
+      "imagePath": "https://raw.githubusercontent.com/einOzzy/team-lucent-data/main/images/lucent_swayz.jpg",
+      "countryCode": "CH",
+      "socials": [
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@swaaayze"
+        }
+      ]
     }
   ]
 }
